@@ -1,0 +1,8 @@
+# Ignore every files
+*
+
+# Except below
+!/server
+!/proto
+
+/server/target
